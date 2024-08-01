@@ -42,9 +42,9 @@
 
 - 빅데이터 학습
     - 실습자료, 파이썬, 기본리뷰, 빅데이터, 분석 기초학습 
-    - [넘파이]()
-    - [판다스]()
-    - [맷플립스]()
+    - [넘파이](https://github.com/znah54/Iot-bigdata-2024/blob/main/day1/bda01_numpy_basic.ipynb)
+    - [판다스](https://github.com/znah54/Iot-bigdata-2024/blob/main/day1/bda02_pandas_basic.ipynb)
+    - [맷플립스](https://github.com/znah54/Iot-bigdata-2024/blob/main/day1/bda03_matplotlib.ipynb)
     - 판다스
     - 맷플롭립
     - 
