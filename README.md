@@ -99,6 +99,10 @@
     - [...]()    
 
 ## 5일차
+    - 머신러닝, 딥러닝
+        - ML(Machine Learning) -> DL(Deep Learning) -> NLP(Natural Langueage Processing) ...
+        - [파이토치기본]()
+        - [회귀분석]()
 
 ## 6일차
 
