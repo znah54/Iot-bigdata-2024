@@ -73,12 +73,12 @@
 
     - 수집방법, 데이터전처리, 분석/시각화 알맞은 방법을 쓰는지 선별
     - 단순 빅데이터 분석방법은 깃헙에서 참조만 해도 많은 것을 찾아볼 수 있음
-    
+
 - 빅데이터 분석가의 작업순
-    1. 수집, 저장 동시 - 크롤링, OpenAPI, DB, 엑셀 다운로드...
+    1. 수집, 저장 동시 - 크롤링, OpenAPI, DB, 엑셀 다운로드... 
     2. 데이터 전처리(핵심!) - 자동화 어려움, 분석 일정 50% 차지
     3. 분석 -> EDA/통계기반 분석, 머신러닝, 딥러닝 활용
-    4. 시각화 - 경영진이 확인하고 경여에 
+    4. 시각화 - 경영진이 확인하고 비지니스, 결정에 도움을 주기 위해서 
 
 - 일반적인 빅데이터 분석 예
     - 코로나 사태로 외국인 관광객수 변경추세
@@ -93,22 +93,48 @@
 
 ## 4일차
 - 머신러닝, 딥러닝
-    - [개념]()
-    - [파이토치기본]()
-    - [회귀분석]()
-    - [...]()    
+    - 인공지능 개념 학습
+    - 파이토치 기본설명과 CPU/GPU 라이브러리 설치
+    - [개념](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day4/dba08_ml_dl_concept.ipynb)
+    - [파이토치개요및설치](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day4/dba09_pytorch_start.ipynb)
 
 ## 5일차
-    - 머신러닝, 딥러닝
-        - ML(Machine Learning) -> DL(Deep Learning) -> NLP(Natural Langueage Processing) ...
-        - [파이토치기본]()
-        - [회귀분석]()
+- 머신러닝, 딥러닝
+    - ML(Machine Learning) -> DL(Deep Learning) -> NLP(Natural Language Processing) ...
+    - [파이토치기본](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba10_pytorch_basic.ipynb)
+    - 타이타닉 생존자 예측
+    - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
+
+## 5일차
+- 머신러닝, 딥러닝
+    - 타이타닉 생존자 예측(계속)
+    - 사이킷런(로지스틱), 파이토치 생존자 예측 비교
+    - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
 ## 6일차
+- 머신러닝, 딥러닝
+    - CNN(Convolutional NN) 
+    - 이미지 분류
 
 ## 7일차
 
 ## 8일차
 
 ## 9일차
+
+## Furthur
+1. 기초
+    1. 역전파
+    2. 데이터로더
+2. 지도학습
+    1. 그 외 회귀
+    2. 다층 신경망
+    3. 합성곱 신경망
+3. 비지도학습
+    1. 오토인코더
+    2. K평균
+4. 시각화
+5. 성능향상
+
+
 
