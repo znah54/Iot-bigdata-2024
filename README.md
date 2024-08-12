@@ -117,6 +117,10 @@
     - 이미지 분류
 
 ## 8일차
+- 머신러닝, 딥러닝
+    - 객체탐지(Object Detection)
+    - OpenCV, Yolov8
+        
 
 ## 9일차
 
