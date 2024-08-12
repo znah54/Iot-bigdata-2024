@@ -105,18 +105,16 @@
     - 타이타닉 생존자 예측
     - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
-## 5일차
+## 6일차
 - 머신러닝, 딥러닝
     - 타이타닉 생존자 예측(계속)
     - 사이킷런(로지스틱), 파이토치 생존자 예측 비교
     - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
-## 6일차
+## 7일차
 - 머신러닝, 딥러닝
     - CNN(Convolutional NN) 
     - 이미지 분류
-
-## 7일차
 
 ## 8일차
 
